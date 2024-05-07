@@ -1,8 +1,7 @@
-# Teste Caixa Branca do meu querido amigo 
+# Teste Caixa Branca - Etapa 3
 
-## Erros encontrados
+## Grafo de Fluxo
 
-O código apresenta documentação inadequada, com comentários pouco informativos, nomenclatura de variáveis genérica, tratamento inadequado de exceções, com captura genérica, potenciais NullPointerExceptions não tratados e uma possível falha na inicialização da conexão com o banco de dados. 
 
 
 ## Autores
@@ -10,7 +9,5 @@ O código apresenta documentação inadequada, com comentários pouco informativ
 Nome: Vinicius Machado de Araujo
 
 RA: 224016
-
-
 
 Está atividade faz parte das atividades complementares 2.
