@@ -2,7 +2,9 @@
 
 ## Documentação
 
-Javadoc está no arquivo do netbeans. 
+Javadoc pode ser visualizado ao escolher a opção Run Javadoc no netbeans.
+
+Código de teste caixa branca devidamente docummentado as classes, métodos e etc.
 
 
 ## Autores
