@@ -2,6 +2,7 @@
 
 ## Documentação
 
+Javadoc está no arquivo do netbeans. 
 
 
 ## Autores
