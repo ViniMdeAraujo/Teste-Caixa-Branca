@@ -2,7 +2,7 @@
 
 ## Documentação
 
-Javadoc pode ser visualizado ao escolher a opção Run Javadoc no netbeans.
+Javadoc gerado.
 
 Código de teste caixa branca está devidamente documentado com comentários nas classes, métodos e etc.
 
